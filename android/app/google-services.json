@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "158377282242",
+    "firebase_url": "https://webdeploy-5f0b9.firebaseio.com",
+    "project_id": "webdeploy-5f0b9",
+    "storage_bucket": "webdeploy-5f0b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158377282242:android:17d6826f6a79bd4f75895b",
+        "android_client_info": {
+          "package_name": "com.b2k.webDeploy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158377282242-gi5pbu6r65kdk6qi224bg6tb9k2j7n3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsXzx7wXWYLRzEkBILOy1kMeSwNBJSImI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158377282242-gi5pbu6r65kdk6qi224bg6tb9k2j7n3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
