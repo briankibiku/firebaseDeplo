@@ -1,4 +1,4 @@
-# webDeploy
+# How to deploy web version a flutter app
 
 A new Flutter project.
 
